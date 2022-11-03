@@ -9,25 +9,25 @@
 /* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@400&display=swap'); */
 
 :root {
-  --ifm-color-primary: #336652;
-  --ifm-color-primary-dark: #2e5c4a;
-  --ifm-color-primary-darker: #2b5746;
-  --ifm-color-primary-darkest: #244739;
-  --ifm-color-primary-light: #38705a;
-  --ifm-color-primary-lighter: #3b755e;
-  --ifm-color-primary-lightest: #42856b;
+  --ifm-color-primary: #441986;
+  --ifm-color-primary-dark: #3d1679;
+  --ifm-color-primary-darker: #3a1572;
+  --ifm-color-primary-darkest: #30115e;
+  --ifm-color-primary-light: #4b1b93;
+  --ifm-color-primary-lighter: #4e1d9a;
+  --ifm-color-primary-lightest: #5821ae;
   --ifm-code-font-size: 95%;
   /* --ifm-font-family-base: 'IBM Plex Sans Thai Looped', serif; */
 }
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #f0e5ff;
+  --ifm-color-primary-dark: #d4b5ff;
+  --ifm-color-primary-darker: #c69cff;
+  --ifm-color-primary-darkest: #9c54ff;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff;
 }
 
 .docusaurus-highlight-code-line {
