@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TypeScript TH',
-  tagline: 'คู่มือ TypeScript สำหรับคนไทย',
-  url: 'https://typescript-th.thadaw.com',
+  title: 'Terraform TH',
+  tagline: 'คู่มือ Terraform สำหรับคนไทย',
+  url: 'https://terraform-th.thadaw.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'mildronize', // Usually your GitHub org/user name.
-  projectName: 'typescript-th', // Usually your repo name.
+  projectName: 'terraform-th', // Usually your repo name.
 
 
   // https://www.flaticon.com/packs/kitty-avatars-3
@@ -41,13 +41,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/mildronize/typescript-th/tree/main/',
+          editUrl: 'https://github.com/mildronize/terraform-th/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/mildronize/typescript-th/tree/main/',
+            'https://github.com/mildronize/terraform-th/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -62,9 +62,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'TypeScript TH',
+        title: 'Terraform TH',
         logo: {
-          alt: 'TypeScript Logo',
+          alt: 'Terraform Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -81,7 +81,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/mildronize/typescript-th',
+            href: 'https://github.com/mildronize/terraform-th',
             label: 'GitHub',
             position: 'right',
           },
@@ -133,12 +133,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/mildronize/typescript-th',
+                href: 'https://github.com/mildronize/terraform-th',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TypeScript TH, Inc. Built with Docusaurus, <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} Terraform TH, Inc. Built with Docusaurus, <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>`,
       },
       prism: {
         theme: lightCodeTheme,

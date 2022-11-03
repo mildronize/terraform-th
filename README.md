@@ -1,3 +1,3 @@
-# TypeScript Thai
+# Terraform Thai
 
-<https://typescript-th.thadaw.com/>
+<https://terraform-th.thadaw.com/>

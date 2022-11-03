@@ -2,9 +2,9 @@
 slug: welcome
 title: Welcome
 authors: [thada]
-tags: [TypeSCript]
+tags: [Terraform]
 ---
 
-ยินดีต้อนรับสู่ TypeScript Thai
+ยินดีต้อนรับสู่ Terraform Thai
 
 รอติดตาม Content ดีๆ ได้เลย
