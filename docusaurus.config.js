@@ -24,13 +24,13 @@ const config = {
   },
 
   plugins: [
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        trackingID: 'G-HWER9WPFZM',
-        anonymizeIP: true,
-      },
-    ],
+    // [
+    //   '@docusaurus/plugin-google-gtag',
+    //   {
+    //     trackingID: 'G-HWER9WPFZM',
+    //     anonymizeIP: true,
+    //   },
+    // ],
   ],
 
   presets: [
